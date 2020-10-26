@@ -1,0 +1,11 @@
+Col{
+    background: cadetblue;
+}
+
+Col div{
+    height: 120px;
+    font-size: 14px;
+    line-height: 120px;
+    background: #0092ff;
+    border-radius: 4px;
+}
